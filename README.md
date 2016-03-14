@@ -1,1 +1,1 @@
-# javaschool
+A dynamic place to learn Java.
